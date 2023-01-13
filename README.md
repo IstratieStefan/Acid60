@@ -10,4 +10,3 @@
 - wires
 - 8 M3 10mm countersink screws
 
-## **!Build guide and firmware coming soon!**
